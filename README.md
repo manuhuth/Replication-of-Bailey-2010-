@@ -1,4 +1,4 @@
-The project was part of the 2020 iteration of the Microeconometrics course (Matser of Science in Economics at the University of Bonn) taught by [Philipp Eisenhauer](https://github.com/peisenha).
+The project was part of the 2020 iteration of the Microeconometrics course (Master of Science in Economics at the University of Bonn) taught by [Philipp Eisenhauer](https://github.com/peisenha).
 
 # Student project: Replication of Bailey (2010)
 
